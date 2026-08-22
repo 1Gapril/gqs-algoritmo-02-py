@@ -1,7 +1,7 @@
 # gqs-algoritmo-02-py
 
 AQUI EMBAIXO ESTA O CODIGO NO MOMENTO
-
+--------------------------------------------------------------------------------------
 import math
 
 # Códigos de cores para o terminal
