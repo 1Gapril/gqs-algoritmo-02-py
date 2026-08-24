@@ -111,7 +111,7 @@ Obrigado por usar a calculadora! Até logo.
 
 # 👨‍💻 Sobre o Autor
 
-Projeto desenvolvido por **GG gapril** para a disciplina de **Garantia da Qualidade de Software / Gestão e Qualidade de Software**.
+Projeto desenvolvido por **Gabriel Ferreira** para a disciplina de **Garantia da Qualidade de Software / Gestão e Qualidade de Software**.
 
 **Professor:** Daniel Henrique Matos de Paiva
 
