@@ -1,3 +1,5 @@
+calculadora_hipotenusa
+
 import math
 
 # Códigos de cores para o terminal
